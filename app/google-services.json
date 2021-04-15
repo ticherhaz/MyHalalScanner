@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "845873569025",
+    "project_id": "my-halal-scanner-2021",
+    "storage_bucket": "my-halal-scanner-2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845873569025:android:7246aff1d2ad2371fecf00",
+        "android_client_info": {
+          "package_name": "com.hafis.myhalalscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845873569025-qb2uvuq3off3f2l05nobrfh1lgv4t5mj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hafis.myhalalscanner",
+            "certificate_hash": "8c6bcbb07a03b6db3464f5202e18b05b5c702861"
+          }
+        },
+        {
+          "client_id": "845873569025-jgh62tgg5060rpsr0vimab3j97n55cdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgOgiuYwNmWo6hc0gn3WeiqugIrc4h47c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845873569025-jgh62tgg5060rpsr0vimab3j97n55cdg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
